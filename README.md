@@ -1,4 +1,41 @@
-# Project 1 - Healthcare Dashboard - Financial Performance & Provider Insights
+# Project 1 - Product Analytics Dashboard - End-to-End Project
+
+## Project Overview
+
+> End-to-End Data Analysis Project using Excel, SQL Server, and Power BI, I built a Product Analytics Dashboard that tracks revenue, profits, and trends. Breaking down management request, built a database, wrote SQL queries, and create executive level dashboard.
+
+
+> <img width="604" alt="dashboard1" src="https://github.com/user-attachments/assets/b68f5e68-11a1-43bb-bb15-be17ea6f1021" />
+
+
+### Key Highlights
+
+
+- **Tools Used**
+    
+| Tool        | Purpose                               |
+|-------------|---------------------------------------|
+| **Power BI** | Data visualization and dashboard creation |
+| **DAX**      | Custom data modeling and calculations |
+| **Power Query** | To clean, transform, and structure raw healthcare data for analysis |
+| **SQL Server** | To build the database, importing flat files from Excel |
+
+
+
+  
+
+> Same Dashboard showing details (Tooltips)
+
+![Screenshot (1)](https://github.com/user-attachments/assets/8a3820e2-ccac-4a22-833c-17697efe39e5)
+
+> .
+> .
+
+------------
+____________
+
+
+# Project 2 - Healthcare Dashboard - Financial Performance & Provider Insights
 
 ## Project Overview
 
@@ -57,7 +94,7 @@ ____________
 
 
 
-# Project 2 - Healthcare Dashboard - Patient Waiting List Analysis
+# Project 3 - Healthcare Dashboard - Patient Waiting List Analysis
 > This project presents an analysis of a publicly available healthcare dataset focused on patient waiting lists. Using Power BI, this dashboard provides a comprehensive view of patient waiting times and trends in both inpatient and outpatient categories. It aims to help healthcare administrators optimize patient flow and better allocate resources.
 
 ![outpatient and inpatient dashboard1](https://github.com/user-attachments/assets/7646834b-3771-4fe2-89bd-415c6f925617)
