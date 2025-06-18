@@ -5,7 +5,7 @@
 > End-to-End Data Analysis Project using Excel, SQL Server, and Power BI, I built a Product Analytics Dashboard that tracks revenue, profits, and trends. Breaking down management request, built a database, wrote SQL queries, and create executive level dashboard.
 
 
-> <img width="604" alt="dashboard1" src="https://github.com/user-attachments/assets/b68f5e68-11a1-43bb-bb15-be17ea6f1021" />
+> ![Screenshot (1)](https://github.com/user-attachments/assets/8a3820e2-ccac-4a22-833c-17697efe39e5)
 
 
 ### Key Highlights
@@ -19,14 +19,6 @@
 | **DAX**      | Custom data modeling and calculations |
 | **Power Query** | To clean, transform, and structure raw healthcare data for analysis |
 | **SQL Server** | To build the database, importing flat files from Excel |
-
-
-
-  
-
-> Same Dashboard showing details (Tooltips)
-
-![Screenshot (1)](https://github.com/user-attachments/assets/8a3820e2-ccac-4a22-833c-17697efe39e5)
 
 > .
 > .
